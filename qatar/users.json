@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "AgentCode": "agent01",
+    "name": "Alex",
+    "profileName": "alexsmithfsipreviewvoice",
+    "email": "amarkcust@gmail.com",
+    "password": "1234"
+  },
+  {
+    "id": "2",
+    "AgentCode": "agent02",
+    "name": "Alexa",
+    "profileName": "alexasmithfsipreviewvoice",
+    "email": "alexa@gmail.com",
+    "password": "1234"
+  }
+]
